@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Abenhaib/Abenhaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,35 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+# Titre 1
+
+## Titre 2
+
+### Titre 3
+
+- Item 2.1
+   - Item 2
+
+
+**Gras**    *italique*
+
+- [ ] Tode 1
+
+- [x] Tode 1
+
+```C
+struct p{
+   int x;
+   int y;
+ };
+```
+
+
+![chien](https://picsum.photos/id/237/200/300)
+
+
+### Equation
+
+
+$$ e = mc^2 $$
